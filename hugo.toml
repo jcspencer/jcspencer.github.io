@@ -4,7 +4,7 @@ title = "James Spencer"
 theme = "anubis"
 paginate = 3
 
-disqusShortname = ""
+#disqusShortname = ""
 googleAnalytics = ""
 
 [author]
@@ -28,20 +28,20 @@ email = "hello@jcspencer.net"
 avatar = "/images/me.png"
 
 # Graphcomment support
-graphcommentId = ""
+#graphcommentId = ""
 
 # utteranc.es support
-utterancesRepo = ""  # mandatory
-utterancesTheme = "" # optional
-utterancesIssue = "" # optional
-utterancesLabel = "" # optional
+#utterancesRepo = ""  # mandatory
+#utterancesTheme = "" # optional
+#utterancesIssue = "" # optional
+#utterancesLabel = "" # optional
 
 # Giscus support
-GiscusRepo = ""  # mandatory
-GiscusRepoId = ""  # mandatory
-GiscusCategory = "Announcements" # mandatory
-GiscusCategoryId = ""  # mandatory
-GiscusLazyLoad = false  # optional
+#GiscusRepo = ""  # mandatory
+#GiscusRepoId = ""  # mandatory
+#GiscusCategory = "Announcements" # mandatory
+#GiscusCategoryId = ""  # mandatory
+#GiscusLazyLoad = false  # optional
 
 
 [[params.social]]
