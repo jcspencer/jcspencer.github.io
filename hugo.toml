@@ -1,4 +1,4 @@
-baseURL = "https://jcspencer.github.io"
+baseURL = "https://blog.jcspencer.net"
 languageCode = "en-us"
 title = "James Spencer"
 theme = "anubis"
@@ -48,19 +48,30 @@ avatar = "/images/me.png"
 id = "github"
 url = "https://github.com/jcspencer"
 
+[[params.social]]
+id = "twitter"
+url = "https://twitter.com/__jcspencer"
+
 [menu]
+
+
+[[menu.main]]
+name = "Home"
+identifier = "home"
+url = "/"
+weight = 1
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Archive"
 identifier = "archive"
 url = "/posts/"
-weight = 2
+weight = 3
 
 [taxonomies]
 category = "categories"
