@@ -15,7 +15,7 @@ author = "James Spencer"
 description = "infosec ramblings"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
-style = "light"
+style = "auto"
 readMore = false
 readNextPosts = 2
 copyCodeButton = true
@@ -23,6 +23,7 @@ rssAsSocialIcon = true
 mathjax = false
 toc = true
 tocWordCount = 500
+customCSS = ["css/typography.css"]
 
 email = "hello@jcspencer.net"
 avatar = "/images/me.png"
